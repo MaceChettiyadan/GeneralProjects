@@ -1,0 +1,1 @@
+This program will allow users to track messages sent on their discord server.
