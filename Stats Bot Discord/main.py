@@ -138,4 +138,4 @@ async def on_message(message):
 
 
 
-client.run('Nzc1Njk0OTk4MjkyMjY3MDcw.X6qEQw.kTScOO9YFitLnoqdNIH3UncuJOg')
+client.run('enter token here')
